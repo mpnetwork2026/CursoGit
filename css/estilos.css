@@ -1,0 +1,25 @@
+---
+title: Ejemplo de CSS
+date: 2026-11-09T17:00:00Z
+author: Manuel Perez
+draft: false
+tags:
+  - markdown
+  - tutorial
+description: Una breve guía sobre cómo usar frontmatter en tus archivos.
+---
+
+/* Selector de etiqueta para el título principal */
+h1 {
+    color: #e74c3c; /* Color del texto (rojo/coral) */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Selector de etiqueta para los párrafos */
+p {
+    color: #2c3e50; /* Color del texto (gris oscuro) */
+    font-size: 20px; /* Tamaño de fuente */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
+
